@@ -1,0 +1,193 @@
+<svg width="860" height="1700" viewBox="0 0 860 1700" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    text{font-family:'Segoe UI',system-ui,sans-serif}
+    @keyframes fadeUp{0%{opacity:0;transform:translateY(18px)}100%{opacity:1;transform:translateY(0)}}
+    @keyframes fadeIn{0%{opacity:0}100%{opacity:1}}
+    @keyframes pulse{0%,100%{r:42}50%{r:46}}
+    @keyframes barW1{0%{width:0}100%{width:760}}
+    @keyframes barW2{0%{width:0}100%{width:760}}
+    @keyframes barW3{0%{width:0}100%{width:736}}
+    @keyframes barW4{0%{width:0}100%{width:700}}
+    @keyframes barW5{0%{width:0}100%{width:668}}
+    @keyframes slideB{0%{opacity:0;transform:translateX(-14px)}100%{opacity:1;transform:translateX(0)}}
+    @keyframes wv{0%,100%{d:path("M0,25 C200,50 430,0 640,28 C750,40 810,18 860,26 L860,60 L0,60Z")}50%{d:path("M0,35 C200,12 430,48 640,18 C750,8 810,38 860,16 L860,60 L0,60Z")}}
+    .t1{animation:fadeUp .7s ease .15s both}
+    .t2{animation:fadeUp .7s ease .4s both}
+    .t3{animation:fadeUp .6s ease .6s both}
+    .bd1{animation:slideB .5s ease .8s both}
+    .bd2{animation:slideB .5s ease .95s both}
+    .bd3{animation:slideB .5s ease 1.1s both}
+    .av{animation:pulse 3s ease-in-out infinite}
+    .b1{animation:barW1 1.3s ease .3s both}
+    .b2{animation:barW2 1.3s ease .5s both}
+    .b3{animation:barW3 1.3s ease .7s both}
+    .b4{animation:barW4 1.3s ease .9s both}
+    .b5{animation:barW5 1.3s ease 1.1s both}
+    .fi{animation:fadeIn .8s ease .2s both}
+    .wwave{animation:wv 5s ease-in-out infinite}
+  </style>
+  <linearGradient id="hbg" x1="0" y1="0" x2="860" y2="220" gradientUnits="userSpaceOnUse">
+    <stop offset="0%" stop-color="#0f0c29"/>
+    <stop offset="50%" stop-color="#1a0a2e"/>
+    <stop offset="100%" stop-color="#0d2b1e"/>
+  </linearGradient>
+  <linearGradient id="avg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#7c3aed"/>
+    <stop offset="100%" stop-color="#0891b2"/>
+  </linearGradient>
+  <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#e11d48"/><stop offset="100%" stop-color="#fb7185"/></linearGradient>
+  <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#a78bfa"/></linearGradient>
+  <linearGradient id="g3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#d97706"/><stop offset="100%" stop-color="#fbbf24"/></linearGradient>
+  <linearGradient id="g4" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#0891b2"/><stop offset="100%" stop-color="#38bdf8"/></linearGradient>
+  <linearGradient id="g5" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#059669"/><stop offset="100%" stop-color="#34d399"/></linearGradient>
+  <radialGradient id="o1"><stop offset="0%" stop-color="#7c3aed" stop-opacity=".28"/><stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o2"><stop offset="0%" stop-color="#0891b2" stop-opacity=".2"/><stop offset="100%" stop-color="#0891b2" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o3"><stop offset="0%" stop-color="#059669" stop-opacity=".16"/><stop offset="100%" stop-color="#059669" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="860" height="1700" fill="#0d1117" rx="16"/>
+<rect width="860" height="220" fill="url(#hbg)" rx="16"/>
+<rect y="205" width="860" height="15" fill="#0d1117"/>
+<ellipse cx="70" cy="55" rx="170" ry="150" fill="url(#o1)"/>
+<ellipse cx="810" cy="190" rx="140" ry="140" fill="url(#o2)"/>
+<ellipse cx="760" cy="25" rx="95" ry="95" fill="url(#o3)"/>
+<path class="wwave" d="M0,25 C200,50 430,0 640,28 C750,40 810,18 860,26 L860,60 L0,60Z" fill="#0d1117" transform="translate(0,158)"/>
+<circle class="av" cx="76" cy="108" r="42" fill="url(#avg)"/>
+<text x="76" y="117" text-anchor="middle" font-size="21" font-weight="700" fill="white">LA</text>
+<text class="t1" x="142" y="85" font-size="36" font-weight="700" fill="white">Lakshmi Anne</text>
+<circle cx="366" cy="74" r="5" fill="#a78bfa"/>
+<text class="t2" x="142" y="114" font-size="14" fill="#94a3b8">Senior AI Engineer  ·  MLOps  ·  Computer Vision  ·  LLMs</text>
+<text class="t3" x="142" y="136" font-size="11.5" fill="#6b7280">Milton Keynes, UK  ·  lakshmianne07@gmail.com</text>
+<g class="bd1"><rect x="142" y="152" width="150" height="26" rx="13" fill="#7c3aed" fill-opacity=".85"/><rect x="142" y="152" width="150" height="26" rx="13" fill="none" stroke="#a78bfa" stroke-width="1"/><text x="217" y="169" text-anchor="middle" font-size="10.5" font-weight="600" fill="white">7+ Years Experience</text></g>
+<g class="bd2"><rect x="302" y="152" width="164" height="26" rx="13" fill="#d97706" fill-opacity=".85"/><rect x="302" y="152" width="164" height="26" rx="13" fill="none" stroke="#fbbf24" stroke-width="1"/><text x="384" y="169" text-anchor="middle" font-size="10.5" font-weight="600" fill="white">Open to Opportunities</text></g>
+<g class="bd3"><rect x="476" y="152" width="120" height="26" rx="13" fill="#059669" fill-opacity=".85"/><rect x="476" y="152" width="120" height="26" rx="13" fill="none" stroke="#34d399" stroke-width="1"/><text x="536" y="169" text-anchor="middle" font-size="10.5" font-weight="600" fill="white">CI/CD Passing</text></g>
+<text class="fi" x="30" y="250" font-size="10" font-weight="700" letter-spacing="2" fill="#6b7280">ABOUT</text>
+<line x1="30" y1="256" x2="830" y2="256" stroke="#21262d" stroke-width="1"/>
+<text x="30" y="278" font-size="13" fill="#94a3b8">Senior AI Engineer with 7+ years building production-grade machine learning systems. Specialising in MLOps</text>
+<text x="30" y="296" font-size="13" fill="#94a3b8">pipelines, real-time computer vision, and large language model integrations. Currently at Brod Services</text>
+<text x="30" y="314" font-size="13" fill="#94a3b8">delivering RFID and Computer Vision fusion for Sam's Club at scale.</text>
+<text class="fi" x="30" y="350" font-size="10" font-weight="700" letter-spacing="2" fill="#6b7280">EXPERTISE</text>
+<line x1="30" y1="356" x2="830" y2="356" stroke="#21262d" stroke-width="1"/>
+<text x="30" y="380" font-size="12.5" fill="#e2e8f0">Python &amp; ML Frameworks</text><text x="830" y="380" text-anchor="end" font-size="11" fill="#6b7280">95%</text>
+<rect x="30" y="385" width="800" height="6" rx="3" fill="#21262d"/>
+<rect class="b1" x="30" y="385" width="760" height="6" rx="3" fill="url(#g1)"/>
+<text x="30" y="410" font-size="12.5" fill="#e2e8f0">MLOps &amp; Cloud Engineering</text><text x="830" y="410" text-anchor="end" font-size="11" fill="#6b7280">95%</text>
+<rect x="30" y="415" width="800" height="6" rx="3" fill="#21262d"/>
+<rect class="b2" x="30" y="415" width="760" height="6" rx="3" fill="url(#g2)"/>
+<text x="30" y="440" font-size="12.5" fill="#e2e8f0">Real-time Data Pipelines</text><text x="830" y="440" text-anchor="end" font-size="11" fill="#6b7280">92%</text>
+<rect x="30" y="445" width="800" height="6" rx="3" fill="#21262d"/>
+<rect class="b3" x="30" y="445" width="736" height="6" rx="3" fill="url(#g3)"/>
+<text x="30" y="470" font-size="12.5" fill="#e2e8f0">Computer Vision &amp; Object Tracking</text><text x="830" y="470" text-anchor="end" font-size="11" fill="#6b7280">88%</text>
+<rect x="30" y="475" width="800" height="6" rx="3" fill="#21262d"/>
+<rect class="b4" x="30" y="475" width="700" height="6" rx="3" fill="url(#g4)"/>
+<text x="30" y="500" font-size="12.5" fill="#e2e8f0">LLM Integration &amp; RAG Systems</text><text x="830" y="500" text-anchor="end" font-size="11" fill="#6b7280">85%</text>
+<rect x="30" y="505" width="800" height="6" rx="3" fill="#21262d"/>
+<rect class="b5" x="30" y="505" width="668" height="6" rx="3" fill="url(#g5)"/>
+<text class="fi" x="30" y="545" font-size="10" font-weight="700" letter-spacing="2" fill="#6b7280">PROJECTS</text>
+<line x1="30" y1="551" x2="830" y2="551" stroke="#21262d" stroke-width="1"/>
+<rect x="30" y="563" width="395" height="115" rx="10" fill="#16213e"/>
+<rect x="30" y="563" width="395" height="4" rx="10" fill="#378add"/>
+<text x="50" y="587" font-size="13" font-weight="600" fill="#60a5fa">rag-enterprise-search</text>
+<text x="50" y="604" font-size="11" fill="rgba(255,255,255,.72)">Production RAG pipeline — LangChain,</text>
+<text x="50" y="618" font-size="11" fill="rgba(255,255,255,.72)">FAISS, GPT-4, FastAPI serving layer.</text>
+<rect x="50" y="630" width="56" height="18" rx="4" fill="#1c3c5e"/><text x="78" y="643" text-anchor="middle" font-size="9.5" fill="#60a5fa">LangChain</text>
+<rect x="114" y="630" width="36" height="18" rx="4" fill="#065f65"/><text x="132" y="643" text-anchor="middle" font-size="9.5" fill="#34d399">FAISS</text>
+<rect x="158" y="630" width="36" height="18" rx="4" fill="#1a3530"/><text x="176" y="643" text-anchor="middle" font-size="9.5" fill="#6ee7b7">GPT-4</text>
+<rect x="202" y="630" width="42" height="18" rx="4" fill="#003d35"/><text x="223" y="643" text-anchor="middle" font-size="9.5" fill="#34d399">FastAPI</text>
+<rect x="435" y="563" width="395" height="115" rx="10" fill="#2d1b69"/>
+<rect x="435" y="563" width="395" height="4" rx="10" fill="#7c3aed"/>
+<text x="455" y="587" font-size="13" font-weight="600" fill="#a78bfa">llm-sql-to-python</text>
+<text x="455" y="604" font-size="11" fill="rgba(255,255,255,.72)">GPT-4 powered PL/SQL to Python</text>
+<text x="455" y="618" font-size="11" fill="rgba(255,255,255,.72)">converter with Streamlit UI.</text>
+<rect x="455" y="630" width="36" height="18" rx="4" fill="#1a3530"/><text x="473" y="643" text-anchor="middle" font-size="9.5" fill="#6ee7b7">GPT-4</text>
+<rect x="499" y="630" width="28" height="18" rx="4" fill="#3b0a6b"/><text x="513" y="643" text-anchor="middle" font-size="9.5" fill="#c4b5fd">LLM</text>
+<rect x="535" y="630" width="48" height="18" rx="4" fill="#5a0000"/><text x="559" y="643" text-anchor="middle" font-size="9.5" fill="#fca5a5">Streamlit</text>
+<rect x="30" y="690" width="395" height="115" rx="10" fill="#064e3b"/>
+<rect x="30" y="690" width="395" height="4" rx="10" fill="#059669"/>
+<text x="50" y="714" font-size="13" font-weight="600" fill="#34d399">rfid-kafka-pipeline</text>
+<text x="50" y="731" font-size="11" fill="rgba(255,255,255,.72)">Real-time RFID event streaming</text>
+<text x="50" y="745" font-size="11" fill="rgba(255,255,255,.72)">with Kafka and Streamlit.</text>
+<rect x="50" y="757" width="36" height="18" rx="4" fill="#1a1a1a"/><text x="68" y="770" text-anchor="middle" font-size="9.5" fill="#d1d5db">Kafka</text>
+<rect x="94" y="757" width="34" height="18" rx="4" fill="#0a2e1e"/><text x="111" y="770" text-anchor="middle" font-size="9.5" fill="#6ee7b7">RFID</text>
+<rect x="136" y="757" width="58" height="18" rx="4" fill="#5a0000"/><text x="165" y="770" text-anchor="middle" font-size="9.5" fill="#fca5a5">Streaming</text>
+<rect x="435" y="690" width="395" height="115" rx="10" fill="#78350f"/>
+<rect x="435" y="690" width="395" height="4" rx="10" fill="#d97706"/>
+<text x="455" y="714" font-size="13" font-weight="600" fill="#fbbf24">yolov8-object-tracking</text>
+<text x="455" y="731" font-size="11" fill="rgba(255,255,255,.72)">YOLOv8 + IoU tracker served</text>
+<text x="455" y="745" font-size="11" fill="rgba(255,255,255,.72)">via FastAPI. Edge-optimised.</text>
+<rect x="455" y="757" width="48" height="18" rx="4" fill="#5a2a00"/><text x="479" y="770" text-anchor="middle" font-size="9.5" fill="#fdba74">YOLOv8</text>
+<rect x="511" y="757" width="22" height="18" rx="4" fill="#5a2a00"/><text x="522" y="770" text-anchor="middle" font-size="9.5" fill="#fdba74">CV</text>
+<rect x="541" y="757" width="42" height="18" rx="4" fill="#003d35"/><text x="562" y="770" text-anchor="middle" font-size="9.5" fill="#34d399">FastAPI</text>
+<rect x="30" y="817" width="395" height="115" rx="10" fill="#881337"/>
+<rect x="30" y="817" width="395" height="4" rx="10" fill="#e11d48"/>
+<text x="50" y="841" font-size="13" font-weight="600" fill="#fb7185">mlops-azure-template</text>
+<text x="50" y="858" font-size="11" fill="rgba(255,255,255,.72)">Azure ML · MLflow · drift detection</text>
+<text x="50" y="872" font-size="11" fill="rgba(255,255,255,.72)">GitHub Actions CI/CD — passing.</text>
+<rect x="50" y="884" width="50" height="18" rx="4" fill="#003d6b"/><text x="75" y="897" text-anchor="middle" font-size="9.5" fill="#93c5fd">Azure ML</text>
+<rect x="108" y="884" width="42" height="18" rx="4" fill="#003d6b"/><text x="129" y="897" text-anchor="middle" font-size="9.5" fill="#93c5fd">MLflow</text>
+<rect x="158" y="884" width="36" height="18" rx="4" fill="#0a2e1e"/><text x="176" y="897" text-anchor="middle" font-size="9.5" fill="#6ee7b7">CI/CD</text>
+<rect x="435" y="817" width="395" height="115" rx="10" fill="#701a75"/>
+<rect x="435" y="817" width="395" height="4" rx="10" fill="#db2777"/>
+<text x="455" y="841" font-size="13" font-weight="600" fill="#f9a8d4">sentiment-kafka-pipeline</text>
+<text x="455" y="858" font-size="11" fill="rgba(255,255,255,.72)">Real-time DistilBERT sentiment</text>
+<text x="455" y="872" font-size="11" fill="rgba(255,255,255,.72)">analysis with Kafka + Streamlit.</text>
+<rect x="455" y="884" width="56" height="18" rx="4" fill="#3b0a6b"/><text x="483" y="897" text-anchor="middle" font-size="9.5" fill="#c4b5fd">DistilBERT</text>
+<rect x="519" y="884" width="28" height="18" rx="4" fill="#3b0464"/><text x="533" y="897" text-anchor="middle" font-size="9.5" fill="#e9d5ff">NLP</text>
+<rect x="555" y="884" width="36" height="18" rx="4" fill="#1a1a1a"/><text x="573" y="897" text-anchor="middle" font-size="9.5" fill="#d1d5db">Kafka</text>
+<rect x="30" y="944" width="395" height="115" rx="10" fill="#164e63"/>
+<rect x="30" y="944" width="395" height="4" rx="10" fill="#0891b2"/>
+<rect x="350" y="952" width="44" height="16" rx="4" fill="rgba(255,255,255,.15)"/>
+<text x="372" y="964" text-anchor="middle" font-size="9" font-weight="700" fill="rgba(255,255,255,.85)">SOON</text>
+<text x="50" y="968" font-size="13" font-weight="600" fill="#38bdf8">multi-cloud-ai-agent</text>
+<text x="50" y="985" font-size="11" fill="rgba(255,255,255,.72)">LangGraph agent across AWS, Azure</text>
+<text x="50" y="999" font-size="11" fill="rgba(255,255,255,.72)">and GCP — coming soon.</text>
+<rect x="50" y="1011" width="58" height="18" rx="4" fill="#003d6b"/><text x="79" y="1024" text-anchor="middle" font-size="9.5" fill="#93c5fd">LangGraph</text>
+<rect x="116" y="1011" width="30" height="18" rx="4" fill="#1a1a1a"/><text x="131" y="1024" text-anchor="middle" font-size="9.5" fill="#d1d5db">AWS</text>
+<rect x="154" y="1011" width="36" height="18" rx="4" fill="#003d6b"/><text x="172" y="1024" text-anchor="middle" font-size="9.5" fill="#93c5fd">Azure</text>
+<rect x="198" y="1011" width="28" height="18" rx="4" fill="#1c2f5e"/><text x="212" y="1024" text-anchor="middle" font-size="9.5" fill="#93c5fd">GCP</text>
+<text class="fi" x="30" y="1100" font-size="10" font-weight="700" letter-spacing="2" fill="#6b7280">TECH STACK</text>
+<line x1="30" y1="1106" x2="830" y2="1106" stroke="#21262d" stroke-width="1"/>
+<rect x="30"  y="1118" width="62"  height="26" rx="13" fill="#5a1a0a"/><text x="61"  y="1135" text-anchor="middle" font-size="10.5" font-weight="600" fill="#fca5a5">PyTorch</text>
+<rect x="102" y="1118" width="74"  height="26" rx="13" fill="#0a1e3c"/><text x="139" y="1135" text-anchor="middle" font-size="10.5" font-weight="600" fill="#93c5fd">LangChain</text>
+<rect x="186" y="1118" width="64"  height="26" rx="13" fill="#003d6b"/><text x="218" y="1135" text-anchor="middle" font-size="10.5" font-weight="600" fill="#93c5fd">Azure ML</text>
+<rect x="260" y="1118" width="44"  height="26" rx="13" fill="#1a1a1a"/><text x="282" y="1135" text-anchor="middle" font-size="10.5" font-weight="600" fill="#d1d5db">Kafka</text>
+<rect x="314" y="1118" width="52"  height="26" rx="13" fill="#003d35"/><text x="340" y="1135" text-anchor="middle" font-size="10.5" font-weight="600" fill="#34d399">FastAPI</text>
+<rect x="376" y="1118" width="56"  height="26" rx="13" fill="#5a2a00"/><text x="404" y="1135" text-anchor="middle" font-size="10.5" font-weight="600" fill="#fdba74">YOLOv8</text>
+<rect x="442" y="1118" width="52"  height="26" rx="13" fill="#003d6b"/><text x="468" y="1135" text-anchor="middle" font-size="10.5" font-weight="600" fill="#93c5fd">MLflow</text>
+<rect x="504" y="1118" width="42"  height="26" rx="13" fill="#1a3530"/><text x="525" y="1135" text-anchor="middle" font-size="10.5" font-weight="600" fill="#6ee7b7">GPT-4</text>
+<rect x="30"  y="1154" width="58"  height="26" rx="13" fill="#5a0000"/><text x="59"  y="1171" text-anchor="middle" font-size="10.5" font-weight="600" fill="#fca5a5">Streamlit</text>
+<rect x="98"  y="1154" width="48"  height="26" rx="13" fill="#0d3d6b"/><text x="122" y="1171" text-anchor="middle" font-size="10.5" font-weight="600" fill="#93c5fd">Docker</text>
+<rect x="156" y="1154" width="96"  height="26" rx="13" fill="#002080"/><text x="204" y="1171" text-anchor="middle" font-size="10.5" font-weight="600" fill="#93c5fd">GitHub Actions</text>
+<rect x="262" y="1154" width="62"  height="26" rx="13" fill="#3b0a6b"/><text x="293" y="1171" text-anchor="middle" font-size="10.5" font-weight="600" fill="#c4b5fd">DistilBERT</text>
+<rect x="334" y="1154" width="40"  height="26" rx="13" fill="#065f65"/><text x="354" y="1171" text-anchor="middle" font-size="10.5" font-weight="600" fill="#34d399">FAISS</text>
+<rect x="384" y="1154" width="52"  height="26" rx="13" fill="#1e3a5f"/><text x="410" y="1171" text-anchor="middle" font-size="10.5" font-weight="600" fill="#93c5fd">Python</text>
+<text class="fi" x="30" y="1214" font-size="10" font-weight="700" letter-spacing="2" fill="#6b7280">AT A GLANCE</text>
+<line x1="30" y1="1220" x2="830" y2="1220" stroke="#21262d" stroke-width="1"/>
+<rect x="30"  y="1234" width="252" height="82" rx="10" fill="#2d1b69" stroke="#7c3aed" stroke-width="1" stroke-opacity=".4"/>
+<text x="156" y="1278" text-anchor="middle" font-size="30" font-weight="700" fill="#a78bfa">7+</text>
+<text x="156" y="1300" text-anchor="middle" font-size="10.5" fill="rgba(255,255,255,.5)">Years Exp</text>
+<rect x="304" y="1234" width="252" height="82" rx="10" fill="#064e3b" stroke="#059669" stroke-width="1" stroke-opacity=".4"/>
+<text x="430" y="1278" text-anchor="middle" font-size="30" font-weight="700" fill="#34d399">CI</text>
+<text x="430" y="1300" text-anchor="middle" font-size="10.5" fill="rgba(255,255,255,.5)">Passing</text>
+<rect x="578" y="1234" width="252" height="82" rx="10" fill="#78350f" stroke="#d97706" stroke-width="1" stroke-opacity=".4"/>
+<text x="704" y="1278" text-anchor="middle" font-size="30" font-weight="700" fill="#fbbf24">3</text>
+<text x="704" y="1300" text-anchor="middle" font-size="10.5" fill="rgba(255,255,255,.5)">Cloud Platforms</text>
+<text class="fi" x="30" y="1358" font-size="10" font-weight="700" letter-spacing="2" fill="#6b7280">CURRENT ROLE</text>
+<line x1="30" y1="1364" x2="830" y2="1364" stroke="#21262d" stroke-width="1"/>
+<rect x="30" y="1378" width="800" height="98" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="52" y="1404" font-size="14" font-weight="700" fill="white">Brod Services</text>
+<text x="52" y="1422" font-size="11.5" fill="#a78bfa">Senior AI Engineer</text>
+<text x="52" y="1442" font-size="11.5" fill="#6b7280">Building RFID + Computer Vision fusion pipeline for Sam's Club. Real-time object</text>
+<text x="52" y="1458" font-size="11.5" fill="#6b7280">tracking, edge ML deployment, and high-throughput Kafka streaming at scale.</text>
+<text class="fi" x="30" y="1520" font-size="10" font-weight="700" letter-spacing="2" fill="#6b7280">CONNECT</text>
+<line x1="30" y1="1526" x2="830" y2="1526" stroke="#21262d" stroke-width="1"/>
+<rect x="30"  y="1540" width="248" height="44" rx="10" fill="#0a66c2"/>
+<text x="154" y="1566" text-anchor="middle" font-size="12" font-weight="600" fill="white">LinkedIn — Lakshmi Anne</text>
+<rect x="306" y="1540" width="248" height="44" rx="10" fill="#b45309"/>
+<text x="430" y="1566" text-anchor="middle" font-size="12" font-weight="600" fill="white">lakshmianne07@gmail.com</text>
+<rect x="582" y="1540" width="248" height="44" rx="10" fill="#7c3aed"/>
+<text x="706" y="1566" text-anchor="middle" font-size="12" font-weight="600" fill="white">github.com/Anne07-Ai</text>
+<path d="M0,1620 C200,1598 430,1640 640,1612 C750,1600 810,1622 860,1608 L860,1660 L0,1660Z" fill="#7c3aed" fill-opacity=".2"/>
+<path d="M0,1634 C200,1655 430,1616 640,1636 C750,1645 810,1626 860,1640 L860,1660 L0,1660Z" fill="#0891b2" fill-opacity=".18"/>
+<text x="430" y="1650" text-anchor="middle" font-size="10.5" fill="#6b7280">Anne07-Ai · Senior AI Engineer · 2025</text>
+</svg>

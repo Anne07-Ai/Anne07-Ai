@@ -49,21 +49,13 @@
 ## Featured projects
 
 <div align="center">
-  <a href="https://github.com/Anne07-Ai/rag-enterprise-search">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=rag-enterprise-search&theme=tokyonight&hide_border=true&title_color=1D9E75&icon_color=1D9E75" />
-  </a>
-  <a href="https://github.com/Anne07-Ai/llm-sql-to-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=llm-sql-to-python&theme=tokyonight&hide_border=true&title_color=1D9E75&icon_color=1D9E75" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/Anne07-Ai/rfid-kafka-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=rfid-kafka-pipeline&theme=tokyonight&hide_border=true&title_color=1D9E75&icon_color=1D9E75" />
-  </a>
-  <a href="https://github.com/Anne07-Ai/yolov8-object-tracking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=yolov8-object-tracking&theme=tokyonight&hide_border=true&title_color=1D9E75&icon_color=1D9E75" />
-  </a>
+| | |
+|---|---|
+| [![rag-enterprise-search](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=rag-enterprise-search&theme=tokyonight&hide_border=true&title_color=1D9E75&icon_color=1D9E75)](https://github.com/Anne07-Ai/rag-enterprise-search) | [![llm-sql-to-python](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=llm-sql-to-python&theme=tokyonight&hide_border=true&title_color=1D9E75&icon_color=1D9E75)](https://github.com/Anne07-Ai/llm-sql-to-python) |
+| [![rfid-kafka-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=rfid-kafka-pipeline&theme=tokyonight&hide_border=true&title_color=1D9E75&icon_color=1D9E75)](https://github.com/Anne07-Ai/rfid-kafka-pipeline) | [![yolov8-object-tracking](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=yolov8-object-tracking&theme=tokyonight&hide_border=true&title_color=1D9E75&icon_color=1D9E75)](https://github.com/Anne07-Ai/yolov8-object-tracking) |
+| [![mlops-azure-template](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=mlops-azure-template&theme=tokyonight&hide_border=true&title_color=1D9E75&icon_color=1D9E75)](https://github.com/Anne07-Ai/mlops-azure-template) | |
+
 </div>
 
 ---

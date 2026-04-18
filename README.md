@@ -70,10 +70,11 @@ I specialise in turning messy, complex business problems into scalable Python se
 | Achievement | Impact |
 |---|---|
 | RFID + CV fusion engine for Sam's Club | Reduced false positives/negatives across hundreds of readers |
-| GPT-4/Claude PL/SQL → Python parser | 30% improvement in parsing accuracy |
-| RAG pipeline over 50+ enterprise datasets | Semantic search + auto-summarisation on Azure AKS |
-| Real-time Kafka ingestion at enterprise scale | Fault-tolerant pipeline processing thousands of events/sec |
+| GPT-4/Claude PL/SQL to Python parser | 30% improvement in parsing accuracy |
+| RAG pipeline over 50+ enterprise datasets | Semantic search and auto-summarisation on Azure AKS |
+| Real-time Kafka ingestion at enterprise scale | Fault-tolerant pipeline processing thousands of events per second |
 | MLOps CI/CD with drift detection | Full observability, SHAP explainability, automated retraining |
+| Multi-cloud AI support agent | End-to-end ticket classification, KB search and reply drafting |
 | NLP ticket classifier — 10K+ tickets | 25% improvement in SLA compliance |
 
 </div>
@@ -137,6 +138,7 @@ I specialise in turning messy, complex business problems into scalable Python se
 | [![rag-enterprise-search](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=rag-enterprise-search&theme=merko&hide_border=true&title_color=5DCAA5&icon_color=5DCAA5&bg_color=0a4f3c)](https://github.com/Anne07-Ai/rag-enterprise-search) | [![llm-sql-to-python](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=llm-sql-to-python&theme=merko&hide_border=true&title_color=5DCAA5&icon_color=5DCAA5&bg_color=0a4f3c)](https://github.com/Anne07-Ai/llm-sql-to-python) |
 | [![rfid-kafka-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=rfid-kafka-pipeline&theme=merko&hide_border=true&title_color=5DCAA5&icon_color=5DCAA5&bg_color=0a4f3c)](https://github.com/Anne07-Ai/rfid-kafka-pipeline) | [![yolov8-object-tracking](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=yolov8-object-tracking&theme=merko&hide_border=true&title_color=5DCAA5&icon_color=5DCAA5&bg_color=0a4f3c)](https://github.com/Anne07-Ai/yolov8-object-tracking) |
 | [![mlops-azure-template](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=mlops-azure-template&theme=merko&hide_border=true&title_color=5DCAA5&icon_color=5DCAA5&bg_color=0a4f3c)](https://github.com/Anne07-Ai/mlops-azure-template) | [![sentiment-kafka-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=sentiment-kafka-pipeline&theme=merko&hide_border=true&title_color=5DCAA5&icon_color=5DCAA5&bg_color=0a4f3c)](https://github.com/Anne07-Ai/sentiment-kafka-pipeline) |
+| [![multi-cloud-ai-agent](https://github-readme-stats.vercel.app/api/pin/?username=Anne07-Ai&repo=multi-cloud-ai-agent&theme=merko&hide_border=true&title_color=5DCAA5&icon_color=5DCAA5&bg_color=0a4f3c)](https://github.com/Anne07-Ai/multi-cloud-ai-agent) | |
 
 </div>
 

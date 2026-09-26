@@ -11,7 +11,7 @@ I'm a Principal AI Engineer working on secure, reliable AI systems. My interests
 ### Professional experience
 
 **Principal AI Engineer · Axiom GRC (WorkNest) · 2026–present**  
-Leading AI engineering for enterprise cybersecurity products, with a focus on reliable LLM applications, evaluation, secure system design, and production delivery. Working across architecture, backend services, and quality controls to make AI features useful, auditable, and maintainable.
+Designing and delivering AI capabilities for enterprise cybersecurity products, with a focus on reliable LLM applications, evaluation, secure system design, and production delivery. Working across architecture, backend services, and quality controls to make AI features useful, auditable, and maintainable.
 
 **AI and ML engineering across industries · 2016–2026**
 

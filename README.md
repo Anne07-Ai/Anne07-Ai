@@ -8,6 +8,25 @@
 
 I'm a Principal AI Engineer working on secure, reliable AI systems. My interests span LLM applications, evaluation, evidence grounded generation, backend architecture, and AI security. I build tools that make AI workflows easier to test, govern, and operate.
 
+### Professional experience
+
+**Principal AI Engineer · Axiom GRC (WorkNest) · 2026–present**  
+Leading the architecture and delivery of an AI gateway for automated penetration testing and vulnerability reporting. The reporting pipeline grounds generated prose in scanner evidence, uses bounded writer and QA steps, and validates security claims before rendering. Technologies include Python, FastAPI, AWS Bedrock, Claude, LangGraph, and PostgreSQL.
+
+**AI and ML engineering across industries · 2016–2026**
+
+| Organisation | Work |
+| --- | --- |
+| HSBC · 2025–2026 | Real time fraud detection with streaming data, ML models, and risk scoring APIs. |
+| Marriott International · 2022–2024 | Guest review analysis and AI assisted hospitality insights. |
+| Tesco · 2021–2022 | Demand forecasting and recommendation systems. |
+| StormGeo · 2018–2021 | Storm impact forecasting with weather and claims data. |
+| Flipkart · 2016–2018 | Computer vision for phone damage assessment. |
+
+### Education and certifications
+
+MSc Finance, University of Hertfordshire (2024). Microsoft Azure AI Engineer Associate, Google Cloud Professional ML Engineer, and AWS Machine Learning Specialty.
+
 ### Featured projects
 
 | Project | What it explores |

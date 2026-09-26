@@ -15,7 +15,7 @@ Leading AI engineering for enterprise cybersecurity products, with a focus on re
 
 **AI and ML engineering across industries · 2016–2026**
 
-| Organisation | Work |
+| Client | Work |
 | --- | --- |
 | HSBC · 2025–2026 | Real time fraud detection with streaming data, ML models, and risk scoring APIs. |
 | Marriott International · 2022–2024 | Guest review analysis and AI assisted hospitality insights. |

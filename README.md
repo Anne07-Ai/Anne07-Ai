@@ -1,16 +1,16 @@
-<img src="https://github.com/Anne07-Ai/Anne07-Ai/raw/cea9a11144bd4dd4f7e087aee8ce52cf16e3b76e/black-clover/hero.svg" alt="Animated introduction to Lakshmi Anne, Principal AI Engineer" width="100%">
+<img src="./profile-art/hero.svg" alt="Animated introduction to Lakshmi Anne, Principal AI Engineer" width="100%">
 
 <div align="center">
-<img src="./black-clover/squad.svg?v=2" alt="Animated chibi squad" width="55%">
+<img src="./profile-art/squad.svg" alt="Animated chibi squad" width="55%">
 </div>
 
-<img src="https://github.com/Anne07-Ai/Anne07-Ai/raw/cea9a11144bd4dd4f7e087aee8ce52cf16e3b76e/black-clover/work.svg" alt="Animated AI engineering work panel" width="100%">
+<img src="./profile-art/work.svg" alt="Animated AI engineering work panel" width="100%">
 
 ## Hi, I'm Lakshmi
 
 I'm a Principal AI Engineer working on secure, reliable AI systems. My interests span LLM applications, evaluation, evidence grounded generation, backend architecture, and AI security. I build tools that make AI workflows easier to test, govern, and operate.
 
-<img src="https://github.com/Anne07-Ai/Anne07-Ai/raw/cea9a11144bd4dd4f7e087aee8ce52cf16e3b76e/black-clover/id.svg" alt="Animated engineering profile and career highlights" width="100%">
+<img src="./profile-art/id.svg" alt="Animated engineering profile and career highlights" width="100%">
 
 ### Professional experience
 
@@ -42,13 +42,13 @@ MSc Finance, University of Hertfordshire (2024). Microsoft Azure AI Engineer Ass
 
 ### Areas I work in
 
-<img src="./black-clover/stack.svg?v=2" alt="Animated tools and cloud platforms" width="100%">
+<img src="./profile-art/stack.svg" alt="Animated tools and cloud platforms" width="100%">
 
 `Python` · `FastAPI` · `LLM applications` · `RAG` · `AI evaluation` · `AI security` · `Docker` · `Kubernetes`
 
-<img src="./black-clover/city.svg?v=2" alt="Animated GitHub contribution skyline" width="100%">
+<img src="./profile-art/city.svg" alt="Animated GitHub contribution skyline" width="100%">
 
-<img src="https://github.com/Anne07-Ai/Anne07-Ai/raw/cea9a11144bd4dd4f7e087aee8ce52cf16e3b76e/black-clover/connect.svg" alt="Animated contact panel" width="100%">
+<img src="./profile-art/connect.svg" alt="Animated contact panel" width="100%">
 
 ### Connect
 

@@ -42,7 +42,7 @@ MSc Finance, University of Hertfordshire (2024). Microsoft Azure AI Engineer Ass
 
 ### Areas I work in
 
-<img src="./profile-art/stack.svg" alt="Animated tools and cloud platforms" width="100%">
+<img src="./profile-art/stack-logos.svg" alt="Animated tools and cloud platforms" width="100%">
 
 `Python` · `FastAPI` · `LLM applications` · `RAG` · `AI evaluation` · `AI security` · `Docker` · `Kubernetes`
 

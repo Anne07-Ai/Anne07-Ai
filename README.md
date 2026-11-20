@@ -21,6 +21,7 @@ Architecting secure AI capabilities for enterprise cybersecurity products, with 
 
 | Client | Work |
 | --- | --- |
+| WorkNest (Axiom GRC) · 2026–present | Principal AI Engineer building secure agentic workflows, LLM evaluation, and production AI services for enterprise cybersecurity. |
 | HSBC · 2025–2026 | Real time fraud detection with streaming data, ML models, and risk scoring APIs. |
 | Marriott International · 2022–2024 | Guest review analysis and AI assisted hospitality insights. |
 | Tesco · 2021–2022 | Demand forecasting and recommendation systems. |

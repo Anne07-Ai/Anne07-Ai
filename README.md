@@ -1,16 +1,16 @@
-<img src="./profile-art/hero.svg" alt="Animated introduction to Lakshmi Anne, Principal AI Engineer" width="100%">
+<img src="./profile-art/hero-words.svg" alt="Animated introduction to Lakshmi Anne, Principal AI Engineer" width="100%">
 
 <div align="center">
-<img src="./profile-art/squad.svg" alt="Animated chibi squad" width="55%">
+<img src="./profile-art/squad-team7.svg" alt="Naruto, Sasuke and Sakura dancing" width="55%">
 </div>
 
-<img src="./profile-art/work.svg" alt="Animated AI engineering work panel" width="100%">
+<img src="./profile-art/work-duo.svg" alt="Lakshmi beside Naruto with highlights from her AI engineering work" width="100%">
 
 ## Hi, I'm Lakshmi
 
 I'm a Principal AI Engineer working on secure, reliable AI systems. My interests span LLM applications, evaluation, evidence grounded generation, backend architecture, and AI security. I build tools that make AI workflows easier to test, govern, and operate.
 
-<img src="./profile-art/id.svg" alt="Animated engineering profile and career highlights" width="100%">
+<img src="./profile-art/id-words.svg" alt="Animated engineering profile and career highlights" width="100%">
 
 ### Professional experience
 
@@ -42,14 +42,18 @@ MSc Finance, University of Hertfordshire (2024). Microsoft Azure AI Engineer Ass
 
 ### Areas I work in
 
-<img src="./profile-art/stack-logos.svg" alt="Animated tools and cloud platforms" width="100%">
+<img src="./profile-art/stack-words.svg" alt="Animated tools and cloud platforms" width="100%">
 
 `Python` · `FastAPI` · `LLM applications` · `RAG` · `AI evaluation` · `AI security` · `Docker` · `Kubernetes`
 
 <img src="./profile-art/city.svg" alt="Animated GitHub contribution skyline" width="100%">
 
-<img src="./profile-art/connect.svg" alt="Animated contact panel" width="100%">
+<img src="./profile-art/connect-grid.svg" alt="Animated contact panel" width="100%">
 
 ### Connect
 
-[Portfolio](https://lakshmianne.uk) · [LinkedIn](https://www.linkedin.com/in/lakshmi-anne-b16420342/) · [Email](mailto:hello@lakshmianne.uk)
+[GitHub](https://github.com/Anne07-Ai) · [Portfolio](https://lakshmianne.uk) · [LinkedIn](https://www.linkedin.com/in/lakshmi-anne-b16420342/) · [Email](mailto:hello@lakshmianne.uk)
+
+<div align="center">
+<img src="./profile-art/walking-naruto.svg" alt="Naruto walking in a loop. Keep learning. Keep shipping." width="100%">
+</div>

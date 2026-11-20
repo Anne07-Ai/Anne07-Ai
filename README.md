@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Lakshmi Anne — Principal AI Engineer focused on secure AI and reliable LLM systems" width="100%">
-</picture>
+<img src="./clover-hero.svg?v=1" alt="Lakshmi Anne, Principal AI Engineer. Black Clover-inspired animated banner with Asta and emerald magic." width="100%">
 
 ## Hi, I'm Lakshmi
 
@@ -37,6 +33,8 @@ MSc Finance, University of Hertfordshire (2024). Microsoft Azure AI Engineer Ass
 | [Curx AI](https://github.com/Anne07-Ai/Curx-AI) | Job discovery, evaluation, and grounded CV tailoring. |
 
 ### Areas I work in
+
+<img src="./clover-stack.svg?v=1" alt="Animated grimoire showing AI workflow, backend, and infrastructure technologies" width="100%">
 
 `Python` · `FastAPI` · `LLM applications` · `RAG` · `AI evaluation` · `AI security` · `Docker` · `Kubernetes`
 

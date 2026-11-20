@@ -46,7 +46,11 @@ MSc Finance, University of Hertfordshire (2024). Microsoft Azure AI Engineer Ass
 
 `Python` · `FastAPI` · `LLM applications` · `RAG` · `AI evaluation` · `AI security` · `Docker` · `Kubernetes`
 
-<img src="./profile-art/city.svg" alt="Animated GitHub contribution skyline" width="100%">
+<h3 align="center">🌃 My contribution village</h3>
+
+<p align="center"><em>Each day’s GitHub contributions shape the skyline.</em></p>
+
+<img src="./profile-art/contribution-village.svg" alt="3D GitHub contribution village. 869 contributions through 20 November 2026, November activity, and public repositories by primary language." width="100%">
 
 <img src="./profile-art/connect-grid.svg" alt="Animated contact panel" width="100%">
 

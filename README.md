@@ -52,11 +52,13 @@ MSc Finance, University of Hertfordshire (2024). Microsoft Azure AI Engineer Ass
 
 <img src="./profile-art/contribution-village.svg" alt="3D GitHub contribution village. 869 contributions through 20 November 2026, November activity, and public repositories by primary language." width="100%">
 
-<img src="./profile-art/connect-grid.svg" alt="Animated contact panel" width="100%">
+<img src="./profile-art/connect-legendary.svg" alt="Let’s build something legendary. Contact Lakshmi on GitHub, by email, on LinkedIn, or through her portfolio." width="100%">
 
 ### Connect
 
-[GitHub](https://github.com/Anne07-Ai) · [Portfolio](https://lakshmianne.uk) · [LinkedIn](https://www.linkedin.com/in/lakshmi-anne-b16420342/) · [Email](mailto:hello@lakshmianne.uk)
+<p align="center">
+<a href="https://github.com/Anne07-Ai"><img src="./profile-art/link-github.svg" alt="GitHub" width="104" height="34"></a> <a href="mailto:hello@lakshmianne.uk"><img src="./profile-art/link-email.svg" alt="Email" width="97" height="34"></a> <a href="https://www.linkedin.com/in/lakshmi-anne-b16420342/"><img src="./profile-art/link-linkedin.svg" alt="LinkedIn" width="113" height="34"></a> <a href="https://lakshmianne.uk"><img src="./profile-art/link-portfolio.svg" alt="Portfolio" width="115" height="34"></a>
+</p>
 
 <div align="center">
 <img src="./profile-art/walking-naruto.svg" alt="Naruto walking in a loop. Keep learning. Keep shipping." width="100%">

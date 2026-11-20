@@ -1,16 +1,16 @@
-<img src="./black-clover/hero.svg?v=2" alt="Animated introduction to Lakshmi Anne, Principal AI Engineer" width="100%">
+<img src="./black-clover/hero.svg?v=3" alt="Animated introduction to Lakshmi Anne, Principal AI Engineer" width="100%">
 
 <div align="center">
 <img src="./black-clover/squad.svg?v=2" alt="Animated chibi squad" width="55%">
 </div>
 
-<img src="./black-clover/work.svg?v=2" alt="Animated AI engineering work panel" width="100%">
+<img src="./black-clover/work.svg?v=3" alt="Animated AI engineering work panel" width="100%">
 
 ## Hi, I'm Lakshmi
 
 I'm a Principal AI Engineer working on secure, reliable AI systems. My interests span LLM applications, evaluation, evidence grounded generation, backend architecture, and AI security. I build tools that make AI workflows easier to test, govern, and operate.
 
-<img src="./black-clover/id.svg?v=2" alt="Animated engineering profile and career highlights" width="100%">
+<img src="./black-clover/id.svg?v=3" alt="Animated engineering profile and career highlights" width="100%">
 
 ### Professional experience
 
@@ -48,7 +48,7 @@ MSc Finance, University of Hertfordshire (2024). Microsoft Azure AI Engineer Ass
 
 <img src="./black-clover/city.svg?v=2" alt="Animated GitHub contribution skyline" width="100%">
 
-<img src="./black-clover/connect.svg?v=2" alt="Animated contact panel" width="100%">
+<img src="./black-clover/connect.svg?v=3" alt="Animated contact panel" width="100%">
 
 ### Connect
 

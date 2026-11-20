@@ -52,7 +52,7 @@ MSc Finance, University of Hertfordshire (2024). Microsoft Azure AI Engineer Ass
 
 <img src="./profile-art/contribution-village.svg" alt="3D GitHub contribution village. 869 contributions through 20 November 2026, November activity, and public repositories by primary language." width="100%">
 
-<img src="./profile-art/connect-legendary.svg" alt="Let’s build something legendary. Contact Lakshmi on GitHub, by email, on LinkedIn, or through her portfolio." width="100%">
+<img src="./profile-art/connect-stack.svg" alt="Let’s build something legendary. Python and FastAPI logos frame Lakshmi’s portrait. Contact Lakshmi on GitHub, by email, on LinkedIn, or through her portfolio." width="100%">
 
 ### Connect
 

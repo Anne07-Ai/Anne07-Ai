@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 248" role="img" aria-labelledby="title description">
+  <title id="title">AI engineering stack</title>
+  <desc id="description">An open grimoire with orbiting sparks beside the technologies Lakshmi uses across AI workflows, backend services, and infrastructure.</desc>
+  <defs>
+    <linearGradient id="background"><stop stop-color="#071914"/><stop offset="1" stop-color="#101c19"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#4fe8a2" stop-opacity=".2"/><stop offset="1" stop-color="#4fe8a2" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .orbit { transform-origin: 187px 125px; animation: rotate 14s linear infinite }
+    .orbit.reverse { animation: rotate 19s linear infinite reverse }
+    .pulse { animation: pulse 5s ease-in-out infinite }
+    @keyframes rotate { to { transform: rotate(360deg) } }
+    @keyframes pulse { 50% { opacity: .5 } }
+    @media (prefers-reduced-motion: reduce) { .orbit, .pulse { animation: none } }
+  </style>
+  <rect x="1" y="1" width="1038" height="246" rx="22" fill="url(#background)" stroke="#34634e" stroke-width="2"/>
+  <circle class="pulse" cx="187" cy="125" r="111" fill="url(#glow)"/>
+  <circle cx="187" cy="125" r="91" fill="none" stroke="#34634e" stroke-dasharray="2 7"/>
+  <circle cx="187" cy="125" r="75" fill="none" stroke="#294f3e"/>
+  <circle class="orbit" cx="187" cy="34" r="4" fill="#a2ffd0"/>
+  <circle class="orbit reverse" cx="262" cy="125" r="4" fill="#d2b77c"/>
+  <g stroke="#9bf6c5" stroke-width="2" stroke-linejoin="round">
+    <path d="M187 155Q166 138 134 146V96Q166 89 187 106Q208 89 240 96V146Q208 138 187 155Z" fill="#102e23"/>
+    <path d="M187 106V155M147 109Q164 105 175 115M147 121Q164 117 175 127M199 115Q211 105 227 109M199 127Q211 117 227 121" fill="none" opacity=".65"/>
+  </g>
+  <path d="M329 35V213" stroke="#2a493d"/>
+  <g font-family="Arial, sans-serif">
+    <text x="371" y="57" fill="#f1faf4" font-size="30" font-weight="bold">AI engineering stack</text>
+    <g fill="#8adeb2" font-family="monospace" font-size="15" letter-spacing="1">
+      <text x="373" y="103">AI WORKFLOWS</text>
+      <text x="373" y="149">BACKEND</text>
+      <text x="373" y="195">INFRASTRUCTURE</text>
+    </g>
+    <g fill="#e0eee6" font-size="20">
+      <text x="550" y="103">LangGraph · AWS Bedrock · Claude</text>
+      <text x="550" y="149">Python · FastAPI · PostgreSQL</text>
+      <text x="550" y="195">Docker · Kubernetes</text>
+    </g>
+  </g>
+</svg>

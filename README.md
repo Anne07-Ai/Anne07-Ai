@@ -10,7 +10,7 @@
 
 I'm a Principal AI Engineer working on secure, reliable AI systems. My interests span LLM applications, evaluation, evidence grounded generation, backend architecture, and AI security. I build tools that make AI workflows easier to test, govern, and operate.
 
-<img src="./profile-art/id-words.svg" alt="Animated engineering profile and career highlights" width="100%">
+<img src="./profile-art/ninja-id.svg" alt="My Ninja ID badge gently swings on its lanyard next to Lakshmi’s career highlights." width="100%">
 
 ### Professional experience
 
